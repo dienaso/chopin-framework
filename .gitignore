@@ -1,0 +1,19 @@
+# Maven #
+target/
+
+# IDEA #
+.idea/
+*.iml
+
+# Eclipse #
+.settings/
+.classpath
+.project
+.springBeans
+
+# Svn
+.svn/
+
+.mvn/
+mvnw
+mvnw.cmd
